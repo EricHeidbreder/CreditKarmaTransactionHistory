@@ -1,4 +1,5 @@
-data/*
+data/*.csv
+data/*.har
 *.har
 *.csv
 *.ipynb
