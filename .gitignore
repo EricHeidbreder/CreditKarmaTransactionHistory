@@ -5,3 +5,4 @@ data/*.har
 *.ipynb
 src/*.ipynb
 .vscode
+.venv
