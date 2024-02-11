@@ -74,6 +74,8 @@ def main():
             transactions.extend(transaction_temp)
         except KeyError:
             errors.append(entry)
+        except json.JSONDecodeError:
+            errors.append(entry)
 
     # Need to expand the amount, category, and merchant fields
     for i, transaction in enumerate(transactions):
