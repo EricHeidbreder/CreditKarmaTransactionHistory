@@ -1,5 +1,9 @@
 # Getting Transactions from CreditKarma
 
+## **Important**: this might not actually be useful for you if you are coming from Mint!
+
+- After building this, I learned that you can go to Mint's desktop app and download all transaction history directly from them. This would still be useful if you need to get CK transactions after a Mint history pull, though.
+
 ## Use Case
 
 - You were a Mint user who had to switch to CreditKarma because Mint sadly was absorbed by CK.
